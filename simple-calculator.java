@@ -1,4 +1,4 @@
-
+/* importing header files (libraries) */
 import java.util.Scanner;
 
 public class Simple-Calculator{
