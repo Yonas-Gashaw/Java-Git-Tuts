@@ -1,7 +1,7 @@
 /* importing header files (libraries) */
 import java.util.Scanner;
 
-public class Simple-Calculator{
+public class SimpleCalculator{
 
   private int num1;
   private int num2;
